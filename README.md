@@ -12,3 +12,5 @@ ha.csv (模型判定的相关系数）
 
 画混淆矩阵
 根据混淆矩阵的4个TP, TN, FN, FP数计算Accuracy, F-score, Precision, Recall (未上传，百度公式即可）
+
+混淆矩阵计算：ha.csv与人类结果（前500是1，后500是0）比较
